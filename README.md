@@ -1,0 +1,2 @@
+# BugHub
+ Developed BugHub, a SaaS data pipeline and knowledge graph initiative, designed to enhance team collaboration and knowledge sharing by synergizing data from StackOverflow and GitHub. This involved creating sophisticated data models to interlink repositories, issues, and discussions across both platforms, utilizing technologies like EdgeDB, networkx for graph data modeling, and Python for API data retrieval and processing.
